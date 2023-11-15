@@ -1,6 +1,6 @@
 # DevWorkshop
 15/11/2023
 
-Shuoyuan Liu(shuoyuanl)
+Shuoyuan Liu(shuoyuanl) Used Java 
 
-Jiacheng Cui(jiacheng20)
+Jiacheng Cui(jiacheng20) Used C
