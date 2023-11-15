@@ -1,0 +1,2 @@
+https://codereview.stackexchange.com/questions/287939/hackerrank-project-euler-12-python-highly-divisible-triangular-numbers
+I don't like this code because it show
